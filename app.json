@@ -1,6 +1,6 @@
 "name": "charleske-xmd",
   "description": "A WhatsApp bot powered by Baileys and Node.js",
-  "repository": "https://github.com/YOUR_USERNAME/charleske-xmd",
+  "repository": "https://github.com/YOUR_USERNAME/charles1",
   "keywords": ["whatsapp", "bot", "baileys", "nodejs"],
   "env": {
     "BOT_NAME": {
