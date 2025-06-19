@@ -1,0 +1,13 @@
+{
+  "name": "charleske-xmd",
+  "version": "1.0.0",
+  "description": "Charleske WhatsApp Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "dotenv": "^16.0.3"
+  }
+}
